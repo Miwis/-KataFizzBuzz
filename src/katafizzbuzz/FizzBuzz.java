@@ -9,9 +9,14 @@ package katafizzbuzz;
  *
  * @author dam129
  */
-public class FizzBuzz {
-    public FizzBuzz(){}
-    public int getFizzBuzz (int n){
+public class FizzBuzz{
+    public int n;
+
+    public int getFizzBuzz() {
         return n;
     }
+
+
+    
+    
 }
