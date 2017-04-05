@@ -11,10 +11,11 @@ package katafizzbuzz;
  */
 public class KataFizzBuzz {
 
+    
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         // TODO code application logic here
         int i=0;
         int j=0;
@@ -34,7 +35,5 @@ public class KataFizzBuzz {
          i++;   
         }
     
-    
-    }
-    
+   }
 }
