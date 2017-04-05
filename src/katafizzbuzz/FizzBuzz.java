@@ -10,7 +10,7 @@ package katafizzbuzz;
  * @author dam129
  */
 public class FizzBuzz {
-    
+    public FizzBuzz(){}
     public int getFizzBuzz (int n){
         return n;
     }
