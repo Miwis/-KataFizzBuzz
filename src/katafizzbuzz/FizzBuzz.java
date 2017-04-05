@@ -27,6 +27,14 @@ public class FizzBuzz{
         return f;
     }
     
+    public String getBuzz (int n){
+        String resultado = String.valueOf(n);
+        String textonumero = resultado;
+        if (resultado==)
+        if (n%3==0){
+        }
+    }
+    
     
     
 }
