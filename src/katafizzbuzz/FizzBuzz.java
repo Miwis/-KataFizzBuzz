@@ -12,11 +12,9 @@ package katafizzbuzz;
 public class FizzBuzz{
     public int n;
 
-    public int getFizzBuzz() {
+    public int getFizzBuzz(int n) {
         return n;
     }
-
-
     
     
 }
