@@ -33,8 +33,12 @@ public class FizzBuzzTest {
     }
     
     @Test
-    public void 
-
+    public void testFBDevuelveFB(){
+        FizzBuzz fb = new FizzBuzz();
+        String result = fb.getFB("FizzBuzz");
+        assertEquals ("FizzBuzz", result);
+        
+    }
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
